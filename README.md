@@ -18,28 +18,28 @@ In the examples I don't add 'sudo', but to execute them you need high privileges
 
 To get help:
 ```[python]
-python3 airopy -h
+python3 airopy.py -h
 ```
 
 To get APS:
 
 ```[python]
-python3 airopy -i wlx00c0ca81fb80 --aps
+python3 airopy.py -i wlx00c0ca81fb80 --aps
 ```
 
 To get Stations:
 ```[python]
-python3 airopy -i wlx00c0ca81fb80 --stations
+python3 airopy.py -i wlx00c0ca81fb80 --stations
 ```
 
 To get APS and Stations:
 ```[python]
-python3 airopy -i wlx00c0ca81fb80 --aps --stations
+python3 airopy.py -i wlx00c0ca81fb80 --aps --stations
 ```
 
 To filter by a particular vendor:
 ```[python]
-python3 airopy -i wlx00c0ca81fb80 --stations -d 0
+python3 airopy.py -i wlx00c0ca81fb80 --stations -d 0
 ```
 
 To filter mac vendors, please check the number in mac_vendors.py. This last option can return unwanted devices, as it is based on the following unvalidated prefixes on my part:
