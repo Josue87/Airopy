@@ -9,7 +9,7 @@ Get clients and access points. With Alfa cards this script works correctly.
 To run this script first install requirements as follows:
 
 ```[python]
-sudo pip3 install requirements.txt 
+sudo pip3 install -r requirements.txt 
 ```
 
 ## How to use
