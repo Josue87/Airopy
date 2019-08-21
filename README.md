@@ -49,6 +49,11 @@ To filter mac vendors, please check the number in mac_vendors.py. This last opti
 
 If you use it in America, add --america.
 
+## Example
+
+![Stations and Acess Points](https://1.bp.blogspot.com/-ddSPcuSz92c/XSy8-Xf2BiI/AAAAAAAAw70/ULHEp5NV3bwmmrOc3b5qBeN7d9FvDOi6wCLcBGAs/s1600/Figura3_PoC1.png)
+
+More info: [elladodelmal.com](http://www.elladodelmal.com/2019/07/airopy-como-crear-tu-airodump-con.html)
 
 ## Author
 
